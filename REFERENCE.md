@@ -36,4 +36,3 @@ Data type: `String[1]`
 the desired state of the package
 
 Default value: `'present'`
-
